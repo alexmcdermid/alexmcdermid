@@ -5,11 +5,23 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## IAM
 - Me now
     - Graduated from the University of British Columbia (Aug 2020) with a BA in Cognitive Systems.
-    - 1+ years experience in startup companies as a software developer.
-    - Working full time as a web developer for [Harled Inc.](https://github.com/harled), where we specialize in full stack Rails web applications.
+    - 1+ years experience in startup companies as a software developer. The majority of my experience is in web applications using Python and Javascript. I do however have quite a breadth of knowledge as a unwritten requirement to working at startups is often having to wear many hats.
+    - Currently working full time as a web developer for [Harled Inc.](https://github.com/harled), where we specialize in full stack Rails web applications.
+
+## Q&A
 - Questions that I'm seeking answers for
-    - What does it take to leave behind the 'Junior' title.
+    - What does it take to leave behind the 'Junior' title?
     - Why Ruby on Rails over a more widespread webstack like MEAN or MERN?
+- What energizes me?
+    - Coffee... lots of coffee. But on a more serious note, problems to tackle energize my mind and gets me thinking.
+- What depletes your energy?
+    - Too many meetings, with the root cause being too much admin overhead, i.e. too many hoops to jump through. Often it is necessary but, can often feel restrictive and draining.
+- When am I most productive?
+    - Usually during the morning hours, this must mean I'm fairly lucky as a West Coaster living in a East Coasters world.
+- Some pet peeves
+    - Distracting noises that aren't easily ignored.
+    - Poorly documented tickets or inadequate documentation.
+    - Redundant meetings.
 - How to reach me
     - [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
     - [alexmcdermid.dev](https://www.alexmcdermid.dev/)
