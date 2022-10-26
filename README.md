@@ -3,10 +3,9 @@
 I work for moments of clarity after solving the last piece of a challenging problem. I live on the west coast of Canada in Vancouver where I enjoy the outdoors and all it has to offer; I try to make time on the weekends to ski, hike and bike. Up until recently I would have called myself a student, I studied Cognitive Systems for 5 years at the University of British Columbia which was a mixture of Computer Science, Psychology, Philosphy and Linguistics. I'm proud to say I've fallen into the tech field and spend my day to day as a junior software developer. 
 
 ## IAM
-- Me now
-    - Graduated from the University of British Columbia (Aug 2020) with a BA in Cognitive Systems.
-    - 1+ years experience in startup companies as a software developer. The majority of my experience is in web applications using Python and Javascript. I do however have quite a breadth of knowledge as a unwritten requirement to working at startups is often having to wear many hats.
-    - Currently working full time as a web developer for [Harled Inc.](https://github.com/harled), where we specialize in full stack Rails web applications.
+- A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
+- A software developer with 1+ years experience in the startup industry working with multiple companies. The majority of my experience is in web applications using Python and Javascript. I do however have quite a breadth of knowledge as a unwritten requirement to working at startups is often having to wear many hats.
+- Currently working full time as a web developer for [Harled Inc.](https://github.com/harled), where we specialize in full stack Rails web applications.
 
 ## Q&A
 - Questions that I'm seeking answers for
@@ -22,9 +21,9 @@ I work for moments of clarity after solving the last piece of a challenging prob
     - Distracting noises that aren't easily ignored.
     - Poorly documented tickets or inadequate documentation.
     - Redundant meetings.
-- How to reach me
-    - [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
-    - [alexmcdermid.dev](https://www.alexmcdermid.dev/)
-    - [Send me an email](mailto:alexander.mcdermid@alumni.ubc.ca)
 - If you read all the way
     - I try to spend a large portion of my free time outside, but I also spend a equally large portion of my free time playing video games. Usually I pick one and get really into it, if you are interested in knowing which one I play now, ask me!
+## Contact
+- [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
+- [alexmcdermid.dev](https://www.alexmcdermid.dev/)
+- [Send me an email](mailto:alexander.mcdermid@alumni.ubc.ca)
