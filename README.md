@@ -4,7 +4,7 @@ I work for moments of clarity after solving the last piece of a challenging prob
 
 ## IAM
 - A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
-- A software developer with 2+ years experience in the startup industry working with multiple companies. The majority of my experience is in web applications using Python and Javascript. I do however have quite a breadth of knowledge, as a unwritten requirement to working at startups is often having to wear many hats.
+- A software developer with 2+ years experience in the startup industry working with multiple companies. The majority of my experience is in web applications using Ruby, Python and Javascript. I do however have quite a breadth of knowledge, as a unwritten requirement to working at startups is often having to wear many hats.
 - Currently working full time as a web developer for [Harled Inc.](https://github.com/harled), where we specialize in Ruby on Rails web applications.
 
 ## Q&A
