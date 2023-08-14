@@ -27,7 +27,7 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## ADO Contributions
 ![ADO Contributions](https://github.com/alexmcdermid/alexmcdermid/blob/main/ADOContributions.png?raw=true)
 
-Snapshot from Aug 9 2023
+Snapshot from Aug 14 2023
 
 ## Contact
 - [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
