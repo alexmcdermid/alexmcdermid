@@ -3,8 +3,8 @@
 I work for moments of clarity after solving the last piece of a challenging problem. I live on the west coast of Canada in Vancouver where I enjoy the outdoors and all it has to offer; I try to make time on the weekends to ski, hike and bike. I studied Cognitive Systems for 5 years at the University of British Columbia which was a mixture of Computer Science, Linguistics, Philosophy and Psychology. I'm proud to say I've graduated into the tech field where I spend my day to day as a software developer. 
 
 ## IAM
-- A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
 - A software developer with 2+ years experience in the startup industry working with multiple companies. The majority of my experience is in web applications using Ruby, Python and Javascript. I do however have quite a breadth of knowledge, as an unwritten requirement to working at startups is often having to wear many hats.
+- A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
 - Currently working full time as a web developer for [Harled Inc.](https://github.com/harled), where we specialize in Ruby on Rails web applications.
 
 ## Q&A
