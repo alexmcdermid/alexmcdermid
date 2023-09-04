@@ -10,7 +10,6 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## Q&A
 - Questions that I'm seeking answers for
     - What does it take to achieve the 'Senior' title?
-    - Why Ruby on Rails over a more widespread webstack like MEAN or MERN?
 - What energizes me?
     - Coffee... lots of coffee. But on a more serious note, problems to tackle energize my mind and gets me thinking.
 - What depletes my energy?
