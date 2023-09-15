@@ -24,9 +24,9 @@ I work for moments of clarity after solving the last piece of a challenging prob
     - I try to spend a large portion of my free time outside, but I also spend a equally large portion of my free time playing video games. Usually I pick one and get really into it, if you are interested in knowing which one I play now, ask me!
 
 ## ADO Contributions
-![ADO Contributions](https://github.com/alexmcdermid/alexmcdermid/blob/main/ADOContributionsSep08.png?raw=true)
+![ADO Contributions](https://github.com/alexmcdermid/alexmcdermid/blob/main/ADOContributionsSep15.png?raw=true)
 
-Snapshot from Sep 08 2023
+Snapshot from Sep 15 2023
 
 ## Contact
 - [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
