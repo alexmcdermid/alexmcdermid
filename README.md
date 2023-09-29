@@ -26,7 +26,7 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## ADO Contributions
 ![ADO Contributions](https://github.com/alexmcdermid/alexmcdermid/blob/main/ADOContributionsSept29.png?raw=true)
 
-Snapshot from Sep 22 2023 (Harled Inc - Royal Canadian Air Force Contract)
+Snapshot from Sep 29 2023 (Harled Inc - Royal Canadian Air Force Contract)
 
 ## Contact
 - [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
