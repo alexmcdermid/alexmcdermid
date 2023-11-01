@@ -5,7 +5,7 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## IAM
 - A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, but my role often requires me to be a jack-of-all-trades.
 - A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
-- Currently working full time as a Full Stack Developer for [Harled Inc.](https://www.harled.ca/), where we specialize in Ruby on Rails web applications.
+- Currently, I'm employed as a Full Stack Developer at [Harled Inc.](https://www.harled.ca/), where we specialize in Ruby on Rails web applications.
 
 ## Q&A
 - Questions that I'm seeking answers for
