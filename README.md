@@ -19,7 +19,6 @@ I work for moments of clarity after solving the last piece of a challenging prob
 - Some pet peeves
     - Distracting noises that aren't easily ignored.
     - Poorly documented tickets or inadequate documentation.
-    - Redundant meetings.
 - If you read all the way
     - I try to spend a large portion of my free time outside, but I also spend a equally large portion of my free time playing video games. Usually I pick one and get really into it, if you are interested in knowing which one I play now, ask me!
 
