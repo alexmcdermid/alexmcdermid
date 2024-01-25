@@ -5,6 +5,8 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## IAM
 - A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, and my role often requires me to wear many hats.
 - A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
+  - Cognitive Systems (COGS) is a multi-disciplinary undergraduate program at UBC involving four departments: Computer Science, Linguistics, Philosophy, and Psychology.
+  - The program provides students with a grounding in the principles and techniques used by intelligent systems both natural and artificial. It emphasizes the study of existing systems (e.g., perception; linguistics), the design of new ones (e.g., machine vision; machine intelligence), and the design of interfaces between different forms of intelligent agents (e.g., human-computer interfaces).
 - Currently employed as a Full Stack Developer at [BC Public Service](https://www.linkedin.com/company/bc-public-service/), where I:
   - Contribute to building scalable software solutions for the Ministry of Education and Child Care to serve students and staff across 1,950 schools in British Columbia.
   - Utilize a diverse tech stack to meet the dynamic needs of public service projects, including:
