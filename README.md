@@ -5,7 +5,17 @@ I work for moments of clarity after solving the last piece of a challenging prob
 ## IAM
 - A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, but my role often requires me to be a jack-of-all-trades.
 - A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
-- Currently employed as a Full Stack Developer at [BC Public Service](https://www.linkedin.com/company/bc-public-service/).
+- Currently employed as a Full Stack Developer at [BC Public Service](https://www.linkedin.com/company/bc-public-service/), where I:
+  - Contribute to building scalable software solutions for the Ministry of Education to serve students and staff across 1,950 schools in British Columbia.
+  - Utilize a diverse tech stack to meet the dynamic needs of public service projects, including:
+    - **Java**: For robust backend development.
+    - **Docker**: Containerizing applications to ensure consistency and efficiency.
+    - **PostgreSQL & OracleDB**: Managing data in powerful and reliable database systems.
+    - **OpenShift**: Orchestrating containerized applications for scalability and reliability.
+    - **Spring Framework**: Developing comprehensive enterprise-level applications.
+    - **JavaScript, Vue.js, & TypeScript**: Crafting dynamic and engaging user interfaces.
+    - **Cypress**: Implementing end-to-end testing to assure application quality and reliability.
+    - **TestCafe**: Utilizing for automated web testing to ensure seamless user experiences.
 
 ## Q&A
 - Questions that I'm seeking answers for
