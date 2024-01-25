@@ -3,7 +3,7 @@
 I work for moments of clarity after solving the last piece of a challenging problem. I live on the west coast of Canada in Vancouver where I enjoy the outdoors and all it has to offer; I try to make time on the weekends to ski, hike and bike. I studied Cognitive Systems for 5 years at the University of British Columbia which was a mixture of Computer Science, Linguistics, Philosophy and Psychology. I'm proud to say I've graduated into the tech field where I spend my day to day as a software developer. 
 
 ## IAM
-- A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, but my role often requires me to be a jack-of-all-trades.
+- A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, and my role often requires me to wear many hats.
 - A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
 - Currently employed as a Full Stack Developer at [BC Public Service](https://www.linkedin.com/company/bc-public-service/), where I:
   - Contribute to building scalable software solutions for the Ministry of Education to serve students and staff across 1,950 schools in British Columbia.
