@@ -1,6 +1,6 @@
 ## Hey I'm Alex
 ### A software developer and solution seeker
-I work for moments of clarity after solving the last piece of a challenging problem. I live on the west coast of Canada in Vancouver where I enjoy the outdoors and all it has to offer; I try to make time on the weekends to ski, hike and bike. I studied Cognitive Systems for 5 years at the University of British Columbia which was a mixture of Computer Science, Linguistics, Philosophy and Psychology. I'm proud to say I've graduated into the tech field where I spend my day to day as a software developer. 
+I work for moments of clarity after solving the last piece of a challenging problem. I live on the west coast of Canada in Vancouver where I enjoy the outdoors and all it has to offer; I try to make time on the weekends to ski, hike and bike. I studied Cognitive Systems for five years at the University of British Columbia which was a mixture of Computer Science, Linguistics, Philosophy and Psychology. I'm proud to say I've graduated into the tech field where I spend my day to day as a software developer. 
 
 ## IAM
 - A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, and my role often requires me to wear many hats.
