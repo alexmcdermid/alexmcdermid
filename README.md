@@ -11,10 +11,11 @@ I work for moments of clarity after solving the last piece of a challenging prob
   - Contribute to building scalable software solutions for the Ministry of Education and Child Care to serve students and staff across 1,950 schools in British Columbia.
   - Utilize a diverse tech stack to meet the dynamic needs of public service projects, including:
     - **Java**: For robust backend development.
-    - **Docker**: Containerizing applications to ensure consistency and efficiency.
-    - **PostgreSQL & OracleDB**: Managing data in powerful and reliable database systems.
-    - **OpenShift**: Orchestrating containerized applications for scalability and reliability.
     - **Spring Framework**: Developing comprehensive enterprise-level applications.
+    - **PostgreSQL & OracleDB**: Managing data in powerful and reliable database systems.
+    - **Docker**: Containerizing applications to ensure consistency and efficiency.
+    - **OpenShift**: Orchestrating containerized applications for scalability and reliability.
+    - **Node.js**: For efficient server-side scripting to build scalable and high-performance web applications.
     - **JavaScript, Vue.js, & TypeScript**: Crafting dynamic and engaging user interfaces.
     - **Cypress**: Implementing end-to-end testing to assure application quality and reliability.
     - **TestCafe**: For automated web testing to ensure seamless user experiences.
