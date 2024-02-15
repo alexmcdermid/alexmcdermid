@@ -18,7 +18,6 @@ I work for moments of clarity after solving the last piece of a challenging prob
     - **Node.js**: For efficient server-side scripting to build scalable and high-performance web applications.
     - **JavaScript, Vue.js, & TypeScript**: Crafting dynamic and engaging user interfaces.
     - **Cypress**: Implementing end-to-end testing to assure application quality and reliability.
-    - **TestCafe**: For automated web testing to ensure seamless user experiences.
 
 ## Q&A
 - Questions that I'm seeking answers for
