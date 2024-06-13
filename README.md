@@ -3,7 +3,7 @@
 I work for moments of clarity after solving the last piece of a challenging problem. I live on the west coast of Canada in Vancouver where I enjoy the outdoors and all it has to offer; I try to make time on the weekends to ski, hike and bike. I studied Cognitive Systems for five years at the University of British Columbia which was a mixture of Computer Science, Linguistics, Philosophy and Psychology. I'm proud to say I've graduated into the tech field where I spend my day to day as a software developer. 
 
 ## IAM
-- A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Ruby, Python, and JavaScript, and my role often requires me to wear many hats.
+- A software developer with years of experience in the fast-paced startup ecosystem, primarily focusing on SaaS companies. My expertise lies in building scalable web applications using Java, Ruby, Python, and JavaScript. My roles have often required me to wear many hats.
 - A graduate of the University of British Columbia (Aug 2020), where I completed a BA in Cognitive Systems.
   - Cognitive Systems (COGS) is a multi-disciplinary undergraduate program at UBC involving four departments: Computer Science, Linguistics, Philosophy, and Psychology.
   - The program provides students with a grounding in the principles and techniques used by intelligent systems both natural and artificial. It emphasizes the study of existing systems (e.g., perception; linguistics), the design of new ones (e.g., machine vision; machine intelligence), and the design of interfaces between different forms of intelligent agents (e.g., human-computer interfaces).
