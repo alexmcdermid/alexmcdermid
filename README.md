@@ -42,4 +42,3 @@ Snapshot from Oct 29 2023 ([Harled Inc.](https://www.harled.ca/) - Royal Canadia
 ## Contact
 - [linkedin/alexmcdermid](https://www.linkedin.com/in/alexmcdermid/)
 - [alexmcdermid.dev](https://www.alexmcdermid.dev/)
-- [Send me an email](mailto:alexander.mcdermid@alumni.ubc.ca)
